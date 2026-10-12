@@ -1,0 +1,28 @@
+Nazev:Vyklidim.cz;Telefon:+420 737 406 021;Email:info@vyklidim.cz;Adresa:Novodvorská 447, 789 69 Postřelmov
+Nazev:Stěhování - Vyklízení MAXI TAXI LÁTAL;Telefon:+420 604 772 453;Email:latal@maxitaxi-latal.cz;Adresa:Novosadský dvůr 773/8, 779 00 Olomouc, Nové Sady
+Nazev:Dalibor Bartoš - Hodinový manžel Šternberk;Telefon:+420 721 109 584;Email:bartos.dalibor@outlook.com;Adresa:Čenětická 2413/1a, 149 00 Praha, Chodov
+Nazev:Marek Klementa - Foukaná izolace Olomouc spol. s r. o.;Telefon:+420 800 181 800;Email:stavitelstvi@atlas.cz;Adresa:Velkomoravská 505/51, 779 00 Olomouc, Nové Sady
+Nazev:Zednictví - Jiří Stražický;Telefon:+420 601 570 955;Email:zednictvi.strazicky@email.cz;Adresa:V Proluce 398/4, 798 02 Mostkovice
+Nazev:FIALA Komplet s.r.o.;Telefon:+420 773 229 330;Email:fialakomplet@gmail.com;Adresa:8. května 384, 789 61 Bludov
+Nazev:Malířství, natěračství Vepřek;Telefon:615636038;Email:jakub-veprek@seznam.cz;Adresa:Zvole 303, 789 01
+Nazev:TOPSTONE;Telefon:+420 580 582 580;Email:info@topstone.cz;Adresa:Družstevní 442, 753 01 Hranice I-Město
+Nazev:Ondřej Havránek - Realitní specialista;Telefon:+420 733 349 600;Email:ondrej-havranek@post.cz;Adresa:A. Bartoše 1668, 768 61 Bystřice pod Hostýnem
+Nazev:Kouzelník The Magic Sebastian;Telefon:+420 602 757 880;Email:milanskrzek@gmail.com;Adresa:8. května 452/12, 779 00 Olomouc
+Nazev:Truhlářství Frgal;Telefon:+420 608 666 913;Email:gal.pat@seznam.cz;Adresa:Babíčkova 1146/8a, 779 00 Olomouc, Hodolany
+Nazev:Navařování laserem s.r.o.;Telefon:+420 605 728 731;Email:info@navarovanilaserem.cz;Adresa:Hněvotín 587, 783 47
+Nazev:LF REKO, Luboš Fetr;Telefon:+420 730 194 908;Email:fetros@email.cz;Adresa:Lipová-lázně 306, 790 61
+Nazev:Chov foxterierů Martin Pospíchal;Telefon:+420 775 265 466;Email:evulepos@seznam.cz;Adresa:Pod Lesem 460, 788 33 Hanušovice
+Nazev:Údržba zeleně a nemovitostí Jan Konvičný;Telefon:+420 777 210 405;Email:jan.konvicny@seznam.cz;Adresa:Zahradní 1268, 751 31 Lipník nad Bečvou I-Město
+Nazev:LJV TRONIX, s.r.o.;Telefon:+420 703 620 675;Email:info@neviditelnatv.cz;Adresa:Loštice, Žádlovice 1, 789 83
+Nazev:Cantiere Stav s.r.o;Telefon:420 774611;Email:N/A;Adresa:Litovelská 1375, 783 91 Uničov
+Nazev:David Ledr;Telefon:+420 730 141 563;Email:ledrovi@atlas.cz;Adresa:Libina 570, 788 05
+Nazev:Jan Hudeček;Telefon:+420 608 834 131;Email:self.hudeckovi@volny.cz;Adresa:Olšany u Prostějova 373, 798 14
+Nazev:Pádolí zahrada;Telefon:+420 792 257 032;Email:MarketaPavlickova323@seznam.cz;Adresa:Zámrsky 83, 753 01
+Nazev:Dj z Hané Vladimír Ondrák;Telefon:+420 723 766 930;Email:djzhane@ohnostroje-ondrak.cz;Adresa:Vřesovice 67, 798 09
+Nazev:Výškové práce -Vlastimil Čada;Telefon:+420 777 165 649;Email:lemaudit@seznam.cz;Adresa:Severovýchod 480/20, 789 01 Zábřeh
+Nazev:Pavel Kopečný - Technology4you s.r.o.;Telefon:+420 733 526 814;Email:servis@technology4you.cz;Adresa:Příkazy, Hynkov 30, 783 33
+Nazev:Elektromontáže Bretfeld;Telefon:+420 723 921 192;Email:elektro.bretfeld@outlook.cz;Adresa:Finská 2730/20, 787 01 Šumperk
+Nazev:Rodinný příběh Bc. Jana Šumpíková, DiS.;Telefon:N/A;Email:info@rodinnypribeh.cz;Adresa:Výmol 356, 783 14 Bohuňovice
+Nazev:Js-interiéry;Telefon:+420 778 706 606;Email:info@js-interiery.cz;Adresa:Jižní 736/12, 789 83 Loštice
+Nazev:Umělecké kovářství Robin Heidenreich;Telefon:+420 732 879 480;Email:info@kovarstvi-heidenreich.cz;Adresa:Holická 1095/31o, 779 00 Olomouc, Hodolany
+Nazev:Ploty KOMPLET;Telefon:+420 776 798 450;Email:info@plotykomplet.cz;Adresa:Věry Pánkové 829/2, 779 00 Olomouc, Nové Sady

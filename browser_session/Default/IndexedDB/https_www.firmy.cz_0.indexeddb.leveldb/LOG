@@ -1,0 +1,5 @@
+2026/10/12-21:02:47.145 162ecf4 Creating DB /Users/marekbrezina/VS Python 1/browser_session/Default/IndexedDB/https_www.firmy.cz_0.indexeddb.leveldb since it was missing.
+2026/10/12-21:02:47.149 162ecf4 Reusing MANIFEST /Users/marekbrezina/VS Python 1/browser_session/Default/IndexedDB/https_www.firmy.cz_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/12-21:03:39.275 162ecf4 Level-0 table #5: started
+2026/10/12-21:03:39.322 162ecf4 Level-0 table #5: 841839 bytes OK
+2026/10/12-21:03:39.330 162ecf4 Delete type=0 #3

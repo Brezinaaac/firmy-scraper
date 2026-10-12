@@ -1,0 +1,35 @@
+name: Build Windows EXE
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: 1. Stáhnout kód
+      uses: actions/checkout@v4
+
+    - name: 2. Nastavit Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: 3. Nainstalovat závislosti
+      run: |
+        python -m pip install --upgrade pip
+        pip install streamlit playwright pandas openpyxl pyinstaller
+        playwright install chromium
+
+    - name: 4. Zabalit aplikaci přes PyInstaller
+      run: |
+        pyinstaller --noconsole --name="FirmyScraper" app.py
+
+    - name: 5. Uložit .exe jako soubor ke stažení
+      uses: actions/upload-artifact@v4
+      with:
+        name: Windows-App-EXE
+        path: dist/FirmyScraper.exe
